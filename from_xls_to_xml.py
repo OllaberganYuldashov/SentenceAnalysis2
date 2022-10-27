@@ -2,11 +2,11 @@ import pandas as pd
 import xml.etree.cElementTree as et
 
 root=et.Element("dictionary")
-id=0
+
 #Sifat
 excel_data = pd.read_excel('excel/sifat.xlsx')
 data = pd.DataFrame(excel_data, columns=['word', 'property'])
-
+id=0
 l=len(data)
 for i in range(l):
     id=id+1
