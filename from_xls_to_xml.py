@@ -12,10 +12,10 @@ for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
         et.SubElement(root,"word", classId='sifat', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1]
+                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
         et.SubElement(root, "word", classId='sifat', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i])
+                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 
 #Son
@@ -27,10 +27,10 @@ for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
         et.SubElement(root,"word", classId='son', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1]
+                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
         et.SubElement(root, "word", classId='son', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i])
+                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 
 #Fel
@@ -42,10 +42,10 @@ for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
         et.SubElement(root,"word", classId='fel', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1]
+                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
         et.SubElement(root, "word", classId='fel', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i])
+                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 
 
@@ -58,10 +58,10 @@ for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
         et.SubElement(root,"word", classId='ravish', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1]
+                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
         et.SubElement(root, "word", classId='ravish', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i])
+                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 #Ot
 excel_data = pd.read_excel('excel/ot.xlsx')
@@ -72,10 +72,10 @@ for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
         et.SubElement(root,"word", classId='ot', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1]
+                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
         et.SubElement(root, "word", classId='ot', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i])
+                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 #Yordamchi so`zlar
 excel_data = pd.read_excel('excel/yordamchi.xlsx')
@@ -86,10 +86,10 @@ for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
         et.SubElement(root,"word", classId='yordamchi soz', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1]
+                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
         et.SubElement(root, "word", classId='yordamchi soz', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i])
+                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 #Oraliq so`zlar
 excel_data = pd.read_excel('excel/oraliq.xlsx')
@@ -100,10 +100,10 @@ for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
         et.SubElement(root,"word", classId='oraliq soz', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1]
+                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
         et.SubElement(root, "word", classId='oraliq soz', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i])
+                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 #faylga yozish
 tree = et.ElementTree(root)

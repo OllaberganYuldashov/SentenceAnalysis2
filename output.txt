@@ -1,0 +1,190 @@
+Chuchuk suv balig'i. Amudaryo o'zanida yashaydi. Ilgari Orol dengizi qurimasidan avval ham dengizda yoki Amudaryo havzasidagi ko'llarda uchrashi qayd etilmagan. Amudaryo katta kurakburunining yosh vakillari mayda baliqlar
+ va suvdagi hasharot lichinkalari bilan, voyaga yetgan vakillari esa asosan boshqa mayda baliq turlari bilan oziqlanadi. Dastlab olib borilgan 1960-1970-yillardagi tadqiqotlarda Amudaryo katta kurakburunining voyaga yetish 
+davri 5-8 yoshli individlar orasida kuzatilgan bo'lsa (urg'ochilari erkaklariga nisbatan biroz kechroq voyaga yetadi), 1990-yillarda olib borilgan kuzatuvlarda 4 yoshli individlar orasida ham voyaga yetgan vakillari uchragan, 
+tadqiqotchilar buni baliqlar yashash muhitidagi o'zgarishlar bilan bog'lash mumkinligini aytishadi.  Amudaryo katta kurakburunining biologiyasi haqida yetarli maʼlumotlar mavjud emas. Shunday bo'lsada, mart va may oylari oralig'ida
+ normal formadagi urg'ochilari  3100-36500 tagacha, pakana formadagi urg'ochilari esa 1000-2000 tagacha tuxum qo'yishi maʼlum[2]. Ushbu baliqlar faqat har 4-5 yilda bir marta tuxum qo'yadi deb  ishoniladi.
+ Tuxumlarini suv tubiga qo'yadi. Tuxumlari yopishqoq, qora, diametri 1,5-2,7 mm atrofida. Tuxumdan chiqqan lichinkalari loyqa suv tubida yashashga  moslashgan. Yosh baliqlarning tumshug'ida tikanlari va dum qismidagi xivchinlari 
+bo'lmaydi, ular baliq 6,5 sm bo'lganidan keyin paydo bo'ladi. Amudaryo katta  kurakburunlari 14 yil atrofida yashaydi.
+
+
+
+
+{'word': 'chuchuk', 'pos': 'sifat', 'root': 'chuchuk'}
+{'word': 'suv', 'pos': 'null', 'root': 'null'}
+{'word': "balig'i", 'pos': 'null', 'root': 'null'}
+{'word': 'amudaryo', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': "o'zanida", 'pos': 'fel', 'root': "o'z"}
+{'word': 'yashaydi', 'pos': 'fel', 'root': 'yasha'}
+{'word': 'ilgari', 'pos': 'yordamchi soz', 'root': 'ilgari'}
+{'word': 'orol', 'pos': 'yordamchi soz', 'root': 'o'}
+{'word': 'dengizi', 'pos': 'fel', 'root': 'de'}
+{'word': 'qurimasidan', 'pos': 'fel', 'root': 'qur'}
+{'word': 'avval', 'pos': 'yordamchi soz', 'root': 'avval'}
+{'word': 'ham', 'pos': 'yordamchi soz', 'root': 'ham'}
+{'word': 'dengizda', 'pos': 'fel', 'root': 'de'}
+{'word': 'yoki', 'pos': 'yordamchi soz', 'root': 'yoki'}
+{'word': 'amudaryo', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': 'havzasidagi', 'pos': 'yordamchi soz', 'root': 'ha'}
+{'word': "ko'llarda", 'pos': 'fel', 'root': "ko'lla"}
+{'word': 'uchrashi', 'pos': 'fel', 'root': 'uchrash'}
+{'word': 'qayd', 'pos': 'null', 'root': 'null'}
+{'word': 'etilmagan', 'pos': 'fel', 'root': 'et'}
+{'word': 'amudaryo', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': 'katta', 'pos': 'sifat', 'root': 'katta'}
+{'word': 'kurakburunining', 'pos': 'yordamchi soz', 'root': 'ku'}
+{'word': 'yosh', 'pos': 'sifat', 'root': 'yosh'}
+{'word': 'vakillari', 'pos': 'fel', 'root': 'vakilla'}
+{'word': 'mayda', 'pos': 'sifat', 'root': 'mayda'}
+{'word': 'baliqlar', 'pos': 'ot', 'root': 'baliq'}
+{'word': 'va', 'pos': 'yordamchi soz', 'root': 'va'}
+{'word': 'suvdagi', 'pos': 'null', 'root': 'null'}
+{'word': 'hasharot', 'pos': 'yordamchi soz', 'root': 'ha'}
+{'word': 'lichinkalari', 'pos': 'null', 'root': 'null'}
+{'word': 'bilan', 'pos': 'yordamchi soz', 'root': 'bilan'}
+{'word': 'voyaga', 'pos': 'yordamchi soz', 'root': 'voy'}
+{'word': 'yetgan', 'pos': 'fel', 'root': 'ye'}
+{'word': 'vakillari', 'pos': 'fel', 'root': 'vakilla'}
+{'word': 'esa', 'pos': 'fel', 'root': 'es'}
+{'word': 'asosan', 'pos': 'ravish', 'root': 'asosan'}
+{'word': 'boshqa', 'pos': 'ravish', 'root': 'boshqa'}
+{'word': 'mayda', 'pos': 'sifat', 'root': 'mayda'}
+{'word': 'baliq', 'pos': 'ot', 'root': 'baliq'}
+{'word': 'turlari', 'pos': 'fel', 'root': 'turla'}
+{'word': 'bilan', 'pos': 'yordamchi soz', 'root': 'bilan'}
+{'word': 'oziqlanadi', 'pos': 'fel', 'root': 'oziqlan'}
+{'word': 'dastlab', 'pos': 'ravish', 'root': 'dastlab'}
+{'word': 'olib', 'pos': 'fel', 'root': 'ol'}
+{'word': 'borilgan', 'pos': 'fel', 'root': 'boril'}
+{'word': '1960-1970-yillardagi', 'pos': 'null', 'root': 'null'}
+{'word': 'tadqiqotlarda', 'pos': 'null', 'root': 'null'}
+{'word': 'amudaryo', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': 'katta', 'pos': 'sifat', 'root': 'katta'}
+{'word': 'kurakburunining', 'pos': 'yordamchi soz', 'root': 'ku'}
+{'word': 'voyaga', 'pos': 'yordamchi soz', 'root': 'voy'}
+{'word': 'yetish', 'pos': 'fel', 'root': 'ye'}
+{'word': 'davri', 'pos': 'yordamchi soz', 'root': 'da'}
+{'word': '5-8', 'pos': 'null', 'root': 'null'}
+{'word': 'yoshli', 'pos': 'sifat', 'root': 'yosh'}
+{'word': 'individlar', 'pos': 'fel', 'root': 'in'}
+{'word': 'orasida', 'pos': 'yordamchi soz', 'root': 'orasida'}
+{'word': 'kuzatilgan', 'pos': 'fel', 'root': 'kuzatil'}
+{'word': "bo'lsa", 'pos': 'null', 'root': 'null'}
+{'word': "urg'ochilari", 'pos': 'fel', 'root': 'ur'}
+{'word': 'erkaklariga', 'pos': 'fel', 'root': 'erkakla'}
+{'word': 'nisbatan', 'pos': 'ravish', 'root': 'nisbatan'}
+{'word': 'biroz', 'pos': 'ravish', 'root': 'biroz'}
+{'word': 'kechroq', 'pos': 'fel', 'root': 'kech'}
+{'word': 'voyaga', 'pos': 'yordamchi soz', 'root': 'voy'}
+{'word': 'yetadi', 'pos': 'fel', 'root': 'ye'}
+{'word': '1990-yillarda', 'pos': 'null', 'root': 'null'}
+{'word': 'olib', 'pos': 'fel', 'root': 'ol'}
+{'word': 'borilgan', 'pos': 'fel', 'root': 'boril'}
+{'word': 'kuzatuvlarda', 'pos': 'fel', 'root': 'kuzat'}
+{'word': '4', 'pos': 'null', 'root': 'null'}
+{'word': 'yoshli', 'pos': 'sifat', 'root': 'yosh'}
+{'word': 'individlar', 'pos': 'fel', 'root': 'in'}
+{'word': 'orasida', 'pos': 'yordamchi soz', 'root': 'orasida'}
+{'word': 'ham', 'pos': 'yordamchi soz', 'root': 'ham'}
+{'word': 'voyaga', 'pos': 'yordamchi soz', 'root': 'voy'}
+{'word': 'yetgan', 'pos': 'fel', 'root': 'ye'}
+{'word': 'vakillari', 'pos': 'fel', 'root': 'vakilla'}
+{'word': 'uchragan', 'pos': 'fel', 'root': 'uchra'}
+{'word': 'tadqiqotchilar', 'pos': 'null', 'root': 'null'}
+{'word': 'buni', 'pos': 'null', 'root': 'null'}
+{'word': 'baliqlar', 'pos': 'ot', 'root': 'baliq'}
+{'word': 'yashash', 'pos': 'fel', 'root': 'yasha'}
+{'word': 'muhitidagi', 'pos': 'null', 'root': 'null'}
+{'word': "o'zgarishlar", 'pos': 'fel', 'root': "o'zgarish"}
+{'word': 'bilan', 'pos': 'yordamchi soz', 'root': 'bilan'}
+{'word': "bog'lash", 'pos': 'fel', 'root': "bog'lash"}
+{'word': 'mumkinligini', 'pos': 'null', 'root': 'null'}
+{'word': 'aytishadi', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': 'amudaryo', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': 'katta', 'pos': 'sifat', 'root': 'katta'}
+{'word': 'kurakburunining', 'pos': 'yordamchi soz', 'root': 'ku'}
+{'word': 'biologiyasi', 'pos': 'null', 'root': 'null'}
+{'word': 'haqida', 'pos': 'yordamchi soz', 'root': 'haqida'}
+{'word': 'yetarli', 'pos': 'sifat', 'root': 'yetarli'}
+{'word': 'maкјlumotlar', 'pos': 'yordamchi soz', 'root': 'ma'}
+{'word': 'mavjud', 'pos': 'yordamchi soz', 'root': 'ma'}
+{'word': 'emas', 'pos': 'fel', 'root': 'em'}
+{'word': 'shunday', 'pos': 'ravish', 'root': 'shunday'}
+{'word': "bo'lsada", 'pos': 'null', 'root': 'null'}
+{'word': 'mart', 'pos': 'yordamchi soz', 'root': 'ma'}
+{'word': 'va', 'pos': 'yordamchi soz', 'root': 'va'}
+{'word': 'may', 'pos': 'yordamchi soz', 'root': 'ma'}
+{'word': 'oylari', 'pos': 'yordamchi soz', 'root': 'o'}
+{'word': "oralig'ida", 'pos': 'yordamchi soz', 'root': 'o'}
+{'word': 'normal', 'pos': 'null', 'root': 'null'}
+{'word': 'formadagi', 'pos': 'null', 'root': 'null'}
+{'word': "urg'ochilari", 'pos': 'fel', 'root': 'ur'}
+{'word': '3100-36500', 'pos': 'null', 'root': 'null'}
+{'word': 'tagacha', 'pos': 'null', 'root': 'null'}
+{'word': 'pakana', 'pos': 'sifat', 'root': 'pakana'}
+{'word': 'formadagi', 'pos': 'null', 'root': 'null'}
+{'word': "urg'ochilari", 'pos': 'fel', 'root': 'ur'}
+{'word': 'esa', 'pos': 'fel', 'root': 'es'}
+{'word': '1000-2000', 'pos': 'null', 'root': 'null'}
+{'word': 'tagacha', 'pos': 'null', 'root': 'null'}
+{'word': 'tuxum', 'pos': 'null', 'root': 'null'}
+{'word': "qo'yishi", 'pos': 'fel', 'root': "qo'yish"}
+{'word': 'maкјlum', 'pos': 'yordamchi soz', 'root': 'ma'}
+{'word': '2', 'pos': 'null', 'root': 'null'}
+{'word': 'ushbu', 'pos': 'null', 'root': 'null'}
+{'word': 'baliqlar', 'pos': 'ot', 'root': 'baliq'}
+{'word': 'faqat', 'pos': 'ravish', 'root': 'faqat'}
+{'word': 'har', 'pos': 'yordamchi soz', 'root': 'ha'}
+{'word': '4-5', 'pos': 'null', 'root': 'null'}
+{'word': 'yilda', 'pos': 'null', 'root': 'null'}
+{'word': 'bir', 'pos': 'son', 'root': 'bir'}
+{'word': 'marta', 'pos': 'yordamchi soz', 'root': 'ma'}
+{'word': 'tuxum', 'pos': 'null', 'root': 'null'}
+{'word': "qo'yadi", 'pos': 'fel', 'root': "qo'y"}
+{'word': 'deb', 'pos': 'yordamchi soz', 'root': 'deb'}
+{'word': 'ishoniladi', 'pos': 'fel', 'root': 'ishonil'}
+{'word': 'tuxumlarini', 'pos': 'fel', 'root': 'tuxumla'}
+{'word': 'suv', 'pos': 'null', 'root': 'null'}
+{'word': 'tubiga', 'pos': 'null', 'root': 'null'}
+{'word': "qo'yadi", 'pos': 'fel', 'root': "qo'y"}
+{'word': 'tuxumlari', 'pos': 'fel', 'root': 'tuxumla'}
+{'word': 'yopishqoq', 'pos': 'sifat', 'root': 'yopishqoq'}
+{'word': 'qora', 'pos': 'sifat', 'root': 'qora'}
+{'word': 'diametri', 'pos': 'null', 'root': 'null'}
+{'word': '1', 'pos': 'null', 'root': 'null'}
+{'word': '5-2', 'pos': 'null', 'root': 'null'}
+{'word': '7', 'pos': 'null', 'root': 'null'}
+{'word': 'mm', 'pos': 'null', 'root': 'null'}
+{'word': 'atrofida', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': 'tuxumdan', 'pos': 'null', 'root': 'null'}
+{'word': 'chiqqan', 'pos': 'yordamchi soz', 'root': 'chi'}
+{'word': 'lichinkalari', 'pos': 'null', 'root': 'null'}
+{'word': 'loyqa', 'pos': 'sifat', 'root': 'loyqa'}
+{'word': 'suv', 'pos': 'null', 'root': 'null'}
+{'word': 'tubida', 'pos': 'null', 'root': 'null'}
+{'word': 'yashashga', 'pos': 'fel', 'root': 'yasha'}
+{'word': 'moslashgan', 'pos': 'fel', 'root': 'moslash'}
+{'word': 'yosh', 'pos': 'sifat', 'root': 'yosh'}
+{'word': 'baliqlarning', 'pos': 'ot', 'root': 'baliq'}
+{'word': "tumshug'ida", 'pos': 'null', 'root': 'null'}
+{'word': 'tikanlari', 'pos': 'sifat', 'root': 'tik'}
+{'word': 'va', 'pos': 'yordamchi soz', 'root': 'va'}
+{'word': 'dum', 'pos': 'null', 'root': 'null'}
+{'word': 'qismidagi', 'pos': 'fel', 'root': 'qis'}
+{'word': 'xivchinlari', 'pos': 'null', 'root': 'null'}
+{'word': "bo'lmaydi", 'pos': 'null', 'root': 'null'}
+{'word': 'ular', 'pos': 'null', 'root': 'null'}
+{'word': 'baliq', 'pos': 'ot', 'root': 'baliq'}
+{'word': '6', 'pos': 'null', 'root': 'null'}
+{'word': '5', 'pos': 'null', 'root': 'null'}
+{'word': 'sm', 'pos': 'null', 'root': 'null'}
+{'word': "bo'lganidan", 'pos': 'null', 'root': 'null'}
+{'word': 'keyin', 'pos': 'ravish', 'root': 'keyin'}
+{'word': 'paydo', 'pos': 'null', 'root': 'null'}
+{'word': "bo'ladi", 'pos': 'null', 'root': 'null'}
+{'word': 'amudaryo', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': 'katta', 'pos': 'sifat', 'root': 'katta'}
+{'word': 'kurakburunlari', 'pos': 'yordamchi soz', 'root': 'ku'}
+{'word': '14', 'pos': 'null', 'root': 'null'}
+{'word': 'yil', 'pos': 'null', 'root': 'null'}
+{'word': 'atrofida', 'pos': 'yordamchi soz', 'root': 'a'}
+{'word': 'yashaydi', 'pos': 'fel', 'root': 'yasha'}
